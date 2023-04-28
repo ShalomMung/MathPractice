@@ -14,6 +14,7 @@ def main():
 
     r1 = Rabbit()
     r2 = Rabbit()
+    r3 = Rabbit()
     print("Number of rabbits = ", r2.nr_rabbit)
     print("Number of rabbits object = ", Rabbit.rabbits)
     
